@@ -3,7 +3,7 @@
 // @description This is a simple script that shows you a direct link to audio file that you want to download.
 // @author      q2p
 // @namespace   q2p
-// @version     0.1
+// @version     0.2
 // @include     https://psstaudio.com/post/*
 // @grant       none
 // @run-at      document-end
@@ -20,7 +20,7 @@
 
 	const link_container = document.createElement("div");
 	const link = document.createElement("a");
-	link.href = audio;
+	link.href = audio_src;
 	link.download = title+" "+description+".mp3";
 	link.textContent = "Download Link";
 	link_container.appendChild(link);
