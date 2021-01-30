@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name        PSSTAudio.com Downloader
 // @description This is a simple script that shows you a direct link to audio file that you want to download.
+// @license     Creative Commons Zero v1.0 Universal
 // @author      q2p
 // @namespace   q2p
-// @version     0.2
+// @version     0.3
 // @include     https://psstaudio.com/post/*
 // @grant       none
 // @run-at      document-end
