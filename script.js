@@ -5,7 +5,7 @@
 // @supportURL  https://github.com/q2p/PSSTAudio-Link-Exporter
 // @author      q2p
 // @namespace   q2p
-// @version     0.3
+// @version     0.4
 // @include     https://psstaudio.com/post/*
 // @include     https://www.psstaudio.com/post/*
 // @grant       none
