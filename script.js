@@ -7,6 +7,7 @@
 // @namespace   q2p
 // @version     0.3
 // @include     https://psstaudio.com/post/*
+// @include     https://www.psstaudio.com/post/*
 // @grant       none
 // @run-at      document-end
 // ==/UserScript==
